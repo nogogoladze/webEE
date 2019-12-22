@@ -1,0 +1,47 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+ul li{
+    /*display: block;*/
+    /*background-color: chocolate;*/
+    /*text-align: center;*/
+    padding-left: 25px;
+    float: left;
+    text-decoration: none;
+    list-style-type: none;
+
+}
+
+.home li a{
+    color:white;
+}
+
+.home li a:hover{
+    border: 1px;
+
+    color:blue;
+}
+
+.home {
+    padding: 16px;
+    border: 1px solid black;
+    display: block;
+    background-color: black;
+    text-align: center;
+    color: white;
+    /*padding: 16px;*/
+}
+.photo {
+
+    padding-left: 100px;
+
+}
+
+.back {
+    padding: 15%;
+    background-color: black;
+    text-align: center;
+    color: white;
+}
